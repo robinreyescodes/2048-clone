@@ -12,11 +12,8 @@ challenge after finishing up my online JavaScript course. The goal was to see
 how much of the information I actually learned, and more importantly, retained.
 
 ## The How
-This was a great way to combine modules and object-oriented programming. I used 
-two classes to handle the grid and tiles of the game. Then used promises and 
-asynchronous code to handle inputs from the user. All in all, there were a lot 
-of complex, moving pieces that I had to wrap my head around. But afterward, 
-I was able to strengthen my knowledge on complex topics even more. 
+Click on the github link in the description to run the game. Then start pressing arrow keys
+and see the tiles move! 
 
 
 
